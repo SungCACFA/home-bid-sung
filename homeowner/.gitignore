@@ -1,0 +1,15 @@
+
+# Initialize a Git repository
+git init
+
+# Add your files to the Git repository
+git add .
+
+# Commit your changes
+git commit -m "Initial commit"
+
+# Set the remote repository URL
+git remote add origin <remote repository URL>
+
+# Push your changes to the remote repository
+git push -u origin master
